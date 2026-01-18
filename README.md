@@ -494,7 +494,7 @@
             font-size: 10px;
            }
            .pricing-card.featured{
-            left: -40px;
+            left: px;
            }
            
         }
